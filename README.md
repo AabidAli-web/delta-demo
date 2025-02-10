@@ -1,8 +1,3 @@
 # delta-demo
-This is a Demo for Git &amp; Github .
-
-# Teacher
-Aabid Ali
-
-# student 
-Mohd faisal
+This is a Demo for Git &amp; Github class.
+This is third line.
